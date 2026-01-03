@@ -84,5 +84,5 @@ streamlit run app.py
 * Legal document analysis
 * Business report querying
 * Multi-document knowledge extraction
-* Internal enterprise documentation search
+
 
