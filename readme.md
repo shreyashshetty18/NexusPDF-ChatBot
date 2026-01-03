@@ -2,7 +2,7 @@
 
 **MultiPDF Chatbot** is an AI-powered assistant that allows users to query and extract information from multiple PDF documents using natural language. It leverages semantic search and large language models (LLMs) to provide accurate, context-aware answers from document content—making it ideal for research, business, legal, and technical applications.
 
-## 🔗 Live Link -> https://nexuspdf-chatbot-multipdf.streamlit.app/
+## 🔗 Live Link -> https://nexuspdf-chatbot-multipdf.streamlit.app
 ---
 
 ## 🚀 Features
